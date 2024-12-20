@@ -37,12 +37,15 @@ This tool is intended strictly for authorized and ethical use. Unauthorized scan
 ## 4. Installation Instructions
 
 1. Clone the repository or download the script.
-2. Install the required Python libraries:
+     ```bash
+     git clone https://github.com/Shawky0-0/ZapFind.git
+   ```
+3. Install the required Python libraries:
    ```bash
    pip install rich tqdm
    ```
-3. Ensure Nmap and Nikto are installed and accessible from the command line.
-4. Run the script using:
+4. Ensure Nmap and Nikto are installed and accessible from the command line.
+5. Run the script using:
    ```bash
    python zapfind.py
    ```
