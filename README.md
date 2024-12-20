@@ -8,7 +8,7 @@ Date: December 20, 2024
 
 ## 1. Introduction
 
-ZapFind is a versatile security scanning tool designed for ethical hackers and cybersecurity professionals. It integrates powerful scanning utilities such as Nmap and Nikto, enabling efficient detection of vulnerabilities and open ports in target systems. This manual adheres to IEEE standards for documentation.
+ZapFind is a versatile security scanning tool designed for ethical hackers and cybersecurity professionals. It integrates powerful scanning utilities such as Nmap and Nikto, enabling efficient detection of vulnerabilities and open ports in target systems.
 
 ---
 
@@ -22,7 +22,7 @@ This tool is intended strictly for authorized and ethical use. Unauthorized scan
 
 ## 3. System Requirements
 
-- **Operating System:** Linux, macOS, or Windows with WSL
+- **Operating System:** Linux
 - **Dependencies:**
   - Python 3.6 or higher
   - Installed utilities:
