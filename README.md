@@ -47,7 +47,7 @@ This tool is intended strictly for authorized and ethical use. Unauthorized scan
 4. Ensure Nmap and Nikto are installed and accessible from the command line.
 5. Run the script using:
    ```bash
-   python zapfind.py
+   python zapfind
    ```
 
 ---
@@ -69,7 +69,7 @@ This tool is intended strictly for authorized and ethical use. Unauthorized scan
 
 1. Launch the tool by executing:
    ```bash
-   python zapfind.py
+   python zapfind
    ```
 2. Read the legal disclaimer displayed at the start.
 
